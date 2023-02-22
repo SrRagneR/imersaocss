@@ -1,2 +1,2 @@
 # imersaocss
-Site html e css
+Site criado em html e css através de imersão do site ALURA.  
